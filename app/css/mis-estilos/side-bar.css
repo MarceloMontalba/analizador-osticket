@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "TT Commons Pro Expanded DemiBold";
+    src: url(./fuentes/tt_commons_pro_expanded_demibold.otf);
+}
+
+.br-logo {
+    font-size: 1.5rem !important
+}
+
+.br-logo strong{
+    font-family: "TT Commons Pro Expanded DemiBold" !important;
+}
+
+.br-logo i {
+    color: rgb(0, 120, 179) !important;
+}
